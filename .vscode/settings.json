@@ -1,0 +1,11 @@
+{
+    "makefile.configureOnOpen": true,
+    "python.defaultInterpreterPath": "${workspaceFolder}/backend/venv/Scripts/python.exe",
+    "python.analysis.extraPaths": [
+        "${workspaceFolder}/backend"
+    ],
+    "python.analysis.pythonPath": "${workspaceFolder}/backend/venv/Scripts/python.exe",
+    "pylance.extraPaths": [
+        "${workspaceFolder}/backend"
+    ]
+}
